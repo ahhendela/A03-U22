@@ -1,6 +1,6 @@
 # A03-U22
 Branch - A set of code that is used for development
-Clone
+Clone - A complete copy of the repository code
 Commit
 Fetch
 GIT
